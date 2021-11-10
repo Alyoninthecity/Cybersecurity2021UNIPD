@@ -1,0 +1,2 @@
+change the onclick attribute of button to onclick="getThat('Y')"
+flag{console_controls_js}

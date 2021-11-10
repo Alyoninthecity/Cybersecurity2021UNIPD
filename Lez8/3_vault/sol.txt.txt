@@ -1,0 +1,1 @@
+simple SQL Injection "' or 1=1" -> check cookies -> base64 -> Flag

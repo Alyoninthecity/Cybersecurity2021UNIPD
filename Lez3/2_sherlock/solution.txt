@@ -1,0 +1,1 @@
+https://gchq.github.io/CyberChef/#recipe=Find_/_Replace(%7B'option':'Regex','string':'%5B%5EA-Z%5D'%7D,'',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'ZERO'%7D,'0',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'ONE'%7D,'1',true,false,true,false)From_Binary('Space',8)

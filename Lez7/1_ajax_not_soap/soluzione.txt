@@ -1,0 +1,7 @@
+Inspect element
+Find the <script></script> part and you will find the following ajax call
+    $.ajax('webhooks/get_username.php',{
+        browser to /webhooks/get_username.php and you will the username MrClean
+using the following $.ajax('webhooks/get_pass.php?username='+$('#name').val(),{
+    browser to /webhooks/get_pass.php?username=MrClean to get the flag
+flag{hj38dsjk324nkeasd9}

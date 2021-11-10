@@ -1,0 +1,3 @@
+looking up into the source file you can find the access_flag -> %(access_flag)s it will print the flag
+
+INSA{Y0u_C@n_H@v3_fUN_W1Th_pYth0n}
