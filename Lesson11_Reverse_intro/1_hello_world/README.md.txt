@@ -1,0 +1,1 @@
+Using IDA you will see different CMP with the AL reg (temp user input), the pin is Fl4g -> Flage{reverse_hello_world}
